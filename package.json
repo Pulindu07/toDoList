@@ -9,7 +9,7 @@
   "author": "Pulindu",
   "license": "ISC",
   "engines": {
-    "node": "16.17.0"
+    "node": "18.8.0"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
