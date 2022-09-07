@@ -9,7 +9,7 @@
   "author": "Pulindu",
   "license": "ISC",
   "engines": {
-    "node": "14.17.5"
+    "node": "16.17.0"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
@@ -17,6 +17,7 @@
     "express": "^4.17.3",
     "lodash": "^4.17.21",
     "mongoose": "^6.5.3",
+    "nvm": "0.0.4",
     "process": "^0.11.10"
   }
 }
